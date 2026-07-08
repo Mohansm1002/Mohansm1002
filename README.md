@@ -75,8 +75,8 @@ Java project to manage student details.
 ## 📊 GitHub Activity
 
 <p align="left">
-  <img style="height: 95%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohansm1002&theme=tokyonight" />
-  <img style="width: 75%;"  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohansm1002&theme=tokyonight" />
+  <img style="width: 74%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohansm1002&theme=tokyonight" />
+  <img style="width: 25%;"  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohansm1002&theme=tokyonight" />
 </p>
 
 <p align="left">
